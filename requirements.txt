@@ -1,0 +1,5 @@
+pygame
+PyOpenGL
+numpy
+open3d
+PyQt6
