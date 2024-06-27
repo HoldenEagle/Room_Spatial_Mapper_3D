@@ -8,6 +8,7 @@ The room is currently being mapped out using a point cloud reconstruction of the
 The necessary libraries needed to run this visualizer are listed in requirements.txt. To install the necessary libraries, use the command pip install -r requirements.txt.
 
 
-Here is a visual taken of the space of one of the demo point clouds.
+A visual taken of the space of one of the demo point clouds is shown in the image in this branch.
+
 
 
